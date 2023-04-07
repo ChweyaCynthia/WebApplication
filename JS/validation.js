@@ -29,10 +29,3 @@ function validateLogin(){
     }
 }
 
-// logged_In = true;
-// username = document.forms["login-form"]["username"].value;
-
-// if(logged_In){
-//     login_name = document.querySelector('.login-text');
-//     login_name.text = "Welcome" + username;
-// }
